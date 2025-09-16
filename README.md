@@ -27,4 +27,4 @@ Python (Pandas, Matplotlib, Seaborn), Jupyter Notebook, Excel, Power BI.
 
 ## Screenshots / Demos
 **Show what the dashboard looks like**
-![Amazon Sales Dashboard](https://app.powerbi.com/groups/me/reports/1061aba7-f3f4-4e35-a42b-fbd3fdf7eabc/716b366b76a9233ddb8a?experience=power-bi)
+![Amazon Sales Dashboard](https://github.com/darktornedo/InnoByte-Services-Internship-Project/blob/main/Amazon_Sales_Analysis.png)
