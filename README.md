@@ -2,11 +2,11 @@
 **Project done as part of my internship at [InnoByte Services](#)** 
 
 ## 📌 Overview
-This project analyzes Amazon sales data to uncover trends, top-performing products, States and Citys. The goal is to provide actionable insights for improving sales strategies, inventory, and operations.
+This project analyzes Amazon sales data to uncover trends, top-performing products, States and Cities. The goal is to provide actionable insights for improving sales strategies, inventory, and operations.
 
 ## 🗂️ Dataset
 - **Columns:** Order ID, Product Category, Size, Sales Channel, Fulfillment, fulfilled by, Customer Type (B2B/B2C), Order Status, Sales Quantity, Revenue, City, State, Order Date  
-- **Business Context:** Dataset contains Amazon orders, including product details, fulfillment info, and sales performance across States and Citys.
+- **Business Context:** Dataset contains Amazon orders, including product details, fulfillment info, and sales performance across States and Cities.
 
 ## ⚙️ Project Workflow
 1. **Data Loading**  
