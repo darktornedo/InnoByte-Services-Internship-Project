@@ -26,4 +26,4 @@ This project analyzes Amazon sales data to uncover trends, top-performing produc
 Python (Pandas, Matplotlib, Seaborn), Jupyter Notebook, Excel, Power BI.
 
 ### Screenshots / Demos
-**Show what the dashboard looks like ![Amazon_Sales_Dashboard](Amazon_Sales_Analysis.png)
+**Show what the dashboard looks like ![Amazon_Sales_Dashboard](Amazon_Sales_Analysis.png)**
