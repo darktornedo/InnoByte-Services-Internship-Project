@@ -64,4 +64,4 @@ This project analyzes Amazon sales data to uncover trends, top-performing produc
 
 ## Screenshots / Demos
 **Show what the dashboard looks like**
-![Amazon Sales Dashboard](https://github.com/darktornedo/InnoByte-Services-Internship-Project/blob/main/Amazon_Sales_Analysis.png)
+![Amazon Sales Dashboard](https://github.com/darktornedo/InnoByte-Services-Internship-Project/blob/main/dashboard_preview.png)
